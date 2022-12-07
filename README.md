@@ -32,5 +32,5 @@ password - 2222
 + Switch account to view interactivity
 + Request Loan [account must have existing deposit greater than 10% of requested amount]
 + Close account [completely erases the account, reload the webpage to reset this and every features]
-+ Explore current and live date and time
++ Explore live date and time
 + Explore live countdown timer [Automatically get logged out at timeout ⏲️]
