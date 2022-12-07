@@ -1,6 +1,6 @@
 # https://mini-bankist2022.netlify.app/
 
-#A mini banking App
+# A mini banking App
 
 ## Login Details
 + Account 1: [Maxwell Nweke 😁]
@@ -15,7 +15,9 @@ password - 2222
 ```
 ## - Expended knowledge includes:
 > Advanced DOM Manipulation
+
 > Internationalization of Dates and Numbers
+
 > Live Dates
 > Live Timers
 > Flowchart
